@@ -2,6 +2,7 @@ import turtle
 from turtle import Turtle, Screen
 import random
 
+print("ФАЙЛ ЗМІНЕНО ДЛЯ НОВОЇ ВІТКИ!")
 screen = Screen()
 screen.bgcolor("black")
 screen.setup(500, 400)
